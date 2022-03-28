@@ -1,4 +1,4 @@
-package br.personal.CalculadoraCientificaRestfull;
+package br.CalculadoraCientificaRestfull;
 
 
 public class Calculadora {

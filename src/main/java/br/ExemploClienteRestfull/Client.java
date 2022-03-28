@@ -1,4 +1,4 @@
-package br.personal.CalculadoraCientificaRestfull;
+package br.ExemploClienteRestfull;
 
 public class Client {
 	

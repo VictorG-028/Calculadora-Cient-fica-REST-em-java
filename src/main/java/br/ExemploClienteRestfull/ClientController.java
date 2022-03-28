@@ -1,4 +1,4 @@
-package br.personal.CalculadoraCientificaRestfull;
+package br.ExemploClienteRestfull;
 
 import java.util.ArrayList;
 import java.util.Iterator;

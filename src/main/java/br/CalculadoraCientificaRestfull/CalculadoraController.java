@@ -1,4 +1,4 @@
-package br.personal.CalculadoraCientificaRestfull;
+package br.CalculadoraCientificaRestfull;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.GetMapping;
