@@ -14,6 +14,12 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.http.HttpStatus;
 
+/*
+	AVISO: 
+	Para esse controlador e as rotas funcionarem, é preciso colocar os 
+	arquivos .java do pacote br.ExemploClienteRestfull dentro do pacote 
+	br.CalculadoraCientificaRestfull
+*/
 
 @RestController
 public class ClientController {
